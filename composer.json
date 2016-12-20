@@ -1,0 +1,14 @@
+{
+  "name": "casadatos/period-aligner",
+  "repositories": [
+  ],
+  "require": {
+  },
+  "require-dev": {
+    "phpunit/phpunit": "4.2.*"
+  },
+  "autoload": {
+    "psr-4": { "Casadatos\\Component\\XTerm\\" : "" }
+  },
+  "minimum-stability": "dev"
+}
